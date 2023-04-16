@@ -46,7 +46,7 @@ button {
     margin: 10px 0;
     width: 50%;
     font-size: 18px;
-    text-transform: uppercase;
+    text-transform: initial;
     transition: background-color 0.2s ease; 
 }
 
